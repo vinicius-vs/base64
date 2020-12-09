@@ -1,3 +1,5 @@
+_author_ = 'versos'
+
 import numpy as np
 import sys
 
