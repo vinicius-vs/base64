@@ -152,7 +152,7 @@ def help():
           "# -e = encoda                                 #\n"
           "# -d = decoda                                 #\n"
           "#                                             #\n"
-          "# Exemplo de uso: $ python base_64 -e exemplo #\n"
+          "# Exemplo de uso: $ python base64 -e exemplo #\n"
           "###############################################")
 
 if len(sys.argv) < 3:
